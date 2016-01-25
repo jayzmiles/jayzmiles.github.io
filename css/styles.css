@@ -6,14 +6,6 @@ body, html {
 	font-style: bold;
 }
 
-.text p {
-	background-color: rgba(0, 255, 255, 0.025);
-	margin: 0em 2em 0em 2em;
-	min-width: 20em;
-	max-width: 40em;
-	text-align: left;
-}
-
 video {
 	/*position: absolute;*/
 	position: fixed;
