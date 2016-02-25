@@ -2,20 +2,22 @@ ideas
 --------------------------------------------
 
 
+--------------------------------------------
 technologies
 --------------------------------------------
 -jekyll
 
 -html
 -sass
--js or coffeescript
+-js or coffeescript (maybe)
 
 -auto-prefixer
 -browser-sync
 
--gulp
+-gulp (maybe)
 
 
+--------------------------------------------
 pages
 --------------------------------------------
 blog (current state)
@@ -26,6 +28,7 @@ intro/landing page (first update)
 portfolio (maybe)
 
 
+--------------------------------------------
 content model (initial overview)
 --------------------------------------------
 header
