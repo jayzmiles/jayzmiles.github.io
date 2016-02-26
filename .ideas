@@ -13,6 +13,8 @@ technologies
 
 -auto-prefixer
 -browser-sync
+-lint?
+-minifier
 
 -gulp (maybe)
 
@@ -64,10 +66,11 @@ blog
   -layout
 
 about
+  -picture?
   -name
   -phone number
   -email address
   -links to social media?
   -summary
   -html/md resumé?
-  -resumé download link
+  -résumé download link
