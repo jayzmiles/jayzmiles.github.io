@@ -1,0 +1,84 @@
+
+
+ideas
+--------------------------------------------
+
+
+--------------------------------------------
+technologies
+--------------------------------------------
+-jekyll
+
+-html
+-sass
+-js or coffeescript (maybe)
+
+-auto-prefixer
+-browser-sync
+-lint?
+-minifier
+
+-gulp (maybe)
+
+
+--------------------------------------------
+pages
+--------------------------------------------
+blog (current state)
+about (current state)
+
+intro/landing page (first update)
+
+portfolio (maybe)
+
+
+--------------------------------------------
+content model (initial overview)
+--------------------------------------------
+header
+  -logo
+  -nav
+
+footer
+  -social links
+  -copyright
+  -maybe something clever
+
+blog
+-internal post
+  -title
+  -date
+  -time?
+  -read length?
+  -category?
+  -tags
+  -abstract/description?
+  -permalink
+  -layout
+-external post
+  -title
+  -date
+  -time?
+  -read length?
+  -category?
+  -tags
+  -abstract/description?
+  -external link source
+  -permalink
+  -layout
+
+about
+  -picture?
+  -name
+  -phone number
+  -email address
+  -links to social media?
+  -summary
+  -html/md resumé?
+  -résumé download link
+
+
+--------------------------------------------
+methodologies
+--------------------------------------------
+atomic design
