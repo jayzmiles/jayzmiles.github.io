@@ -5,7 +5,7 @@ body, html {
 	font-size: .95em;
 
 	/* mysterious background image styling */
-	background: url("../img/poster.jpg") no-repeat center center fixed;
+	background: url("../img/poster-min.jpg") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
